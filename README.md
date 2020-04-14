@@ -7,5 +7,5 @@
 | Problema   |   Python3      |  Javascript | C |
 |------------|:--------------:|:-----------:|:--:|
 | 1001 - Extremamente Básicos|  [X](./python/1001.py) | [X](./javascript/1001.js)  | [X](./c/1001.c)|
-| 1002 |  X |  | | 
-| 1003 |  X |  |  |
+| 1002 |   |  | | 
+| 1003 |   |  |  |
