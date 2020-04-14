@@ -1,6 +1,6 @@
-a = input()
-b = input()
+a = int(input())
+b = int(input())
 
 X = a + b
 
-print "X = %i" % X
+print("X = %i" % X)
