@@ -18,4 +18,13 @@
 | [1010 - Cálculo Simples](https://www.urionlinejudge.com.br/judge/pt/problems/view/1010) | [x](./python/1010.py)  |  |  |
 | [1011 - Esfera](https://www.urionlinejudge.com.br/judge/pt/problems/view/1011) | [x](./python/1011.py)  |  |  |
 | [1012 - Área](https://www.urionlinejudge.com.br/judge/pt/problems/view/1012) | [x](./python/1012.py)  |  |  |
-| [1013 - Esfera](https://www.urionlinejudge.com.br/judge/pt/problems/view/1011) | [x](./python/1011.py)  |  |  |
+| [1013 - Esfera](https://www.urionlinejudge.com.br/judge/pt/problems/view/1011) | [x](./python/1013.py)  |  |  |
+| [1014 - Consumo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1014) | [x](./python/1014.py)  |  |  |
+| [1015 - Distância entre dois pontos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1015) | [x](./python/1015.py)  |  |  |
+| [1016 - Distância](https://www.urionlinejudge.com.br/judge/pt/problems/view/1016) | [x](./python/1016.py)  |  |  |
+| [1017 - Gasto de Combustível](https://www.urionlinejudge.com.br/judge/pt/problems/view/1017) | [x](./python/1011.py)  |  |  |
+| [1018 - Cédulas](https://www.urionlinejudge.com.br/judge/pt/problems/view/1018) | [x](./python/1018.py)  |  |  |
+| [1019 - Conversão de Tempo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1019) | [x](./python/1019.py)  |  |  |
+| [1020 - Idade em dias](https://www.urionlinejudge.com.br/judge/pt/problems/view/1020) | [x](./python/1020.py)  |  |  |
+| [1021 - Notas e Moedas](https://www.urionlinejudge.com.br/judge/pt/problems/view/1021) |   |  |  |
+| [1035 - Teste de seleção 1](https://www.urionlinejudge.com.br/judge/pt/problems/view/1035) |   |  |  |
